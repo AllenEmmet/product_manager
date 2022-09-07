@@ -1,0 +1,14 @@
+.formdiv{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 5px;
+}
+.formlabel{
+    margin-right: 5px;
+}
+.formbutton{
+    background-color: green;
+    color: white;
+    border: 2px solid black;
+}

@@ -1,0 +1,14 @@
+.detail_link{
+    margin-right: 5px;
+    text-decoration: none;
+    background-color: red;
+    border-radius: 5px;
+    
+}
+.edit_link{
+    text-decoration: none;
+    background-color: blue;
+    color: yellow;
+    border-radius: 5px;
+
+}
